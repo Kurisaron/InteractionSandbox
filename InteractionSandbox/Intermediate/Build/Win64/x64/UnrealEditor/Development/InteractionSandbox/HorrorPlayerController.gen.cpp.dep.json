@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\interactionsandbox\\interactionsandbox\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsandbox\\uht\\horrorplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\interactionsandbox\\interactionsandbox\\intermediate\\build\\win64\\x64\\interactionsandboxeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\interactionsandbox\\interactionsandbox\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\interactionsandbox\\definitions.interactionsandbox.h",
+            "d:\\github\\interactionsandbox\\interactionsandbox\\source\\interactionsandbox\\variant_horror\\horrorplayercontroller.h",
+            "d:\\github\\interactionsandbox\\interactionsandbox\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsandbox\\uht\\horrorplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

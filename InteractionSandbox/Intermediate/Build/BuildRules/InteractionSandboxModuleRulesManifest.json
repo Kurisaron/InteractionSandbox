@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Github\\InteractionSandbox\\InteractionSandbox\\Source\\InteractionSandbox\\InteractionSandbox.Build.cs",
+		"D:\\Github\\InteractionSandbox\\InteractionSandbox\\Source\\InteractionSandbox.Target.cs",
+		"D:\\Github\\InteractionSandbox\\InteractionSandbox\\Source\\InteractionSandboxEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

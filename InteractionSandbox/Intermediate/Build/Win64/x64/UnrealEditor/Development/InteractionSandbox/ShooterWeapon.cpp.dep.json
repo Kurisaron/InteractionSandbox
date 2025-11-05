@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\interactionsandbox\\interactionsandbox\\source\\interactionsandbox\\variant_shooter\\weapons\\shooterweapon.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\interactionsandbox\\interactionsandbox\\intermediate\\build\\win64\\x64\\interactionsandboxeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\interactionsandbox\\interactionsandbox\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\interactionsandbox\\definitions.interactionsandbox.h",
+            "d:\\github\\interactionsandbox\\interactionsandbox\\source\\interactionsandbox\\variant_shooter\\weapons\\shooterweapon.h",
+            "d:\\github\\interactionsandbox\\interactionsandbox\\source\\interactionsandbox\\variant_shooter\\weapons\\shooterweaponholder.h",
+            "d:\\github\\interactionsandbox\\interactionsandbox\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsandbox\\uht\\shooterweaponholder.generated.h",
+            "d:\\github\\interactionsandbox\\interactionsandbox\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsandbox\\uht\\shooterweapon.generated.h",
+            "d:\\epiclibrary\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "d:\\epiclibrary\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",
+            "d:\\epiclibrary\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl",
+            "d:\\github\\interactionsandbox\\interactionsandbox\\source\\interactionsandbox\\variant_shooter\\weapons\\shooterprojectile.h",
+            "d:\\github\\interactionsandbox\\interactionsandbox\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsandbox\\uht\\shooterprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

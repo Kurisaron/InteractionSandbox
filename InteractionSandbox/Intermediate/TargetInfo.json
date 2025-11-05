@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "InteractionSandbox",
+			"Path": "..\\Source\\InteractionSandbox.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "InteractionSandboxEditor",
+			"Path": "..\\Source\\InteractionSandboxEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

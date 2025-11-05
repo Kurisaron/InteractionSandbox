@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\InteractionSandbox.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\InteractionSandbox.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\InteractionSandboxEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\InteractionSandbox">
+      <UniqueIdentifier>{B88D755A-E3B0-38DA-A7AA-A21799EB0A44}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\InteractionSandbox\InteractionSandbox.Build.cs">
+      <Filter>Source\InteractionSandbox</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\InteractionSandbox\InteractionSandbox.cpp">
+      <Filter>Source\InteractionSandbox</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\InteractionSandbox.h">
+      <Filter>Source\InteractionSandbox</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InteractionSandbox\InteractionSandboxCameraManager.cpp">
+      <Filter>Source\InteractionSandbox</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\InteractionSandboxCameraManager.h">
+      <Filter>Source\InteractionSandbox</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InteractionSandbox\InteractionSandboxCharacter.cpp">
+      <Filter>Source\InteractionSandbox</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\InteractionSandboxCharacter.h">
+      <Filter>Source\InteractionSandbox</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InteractionSandbox\InteractionSandboxGameMode.cpp">
+      <Filter>Source\InteractionSandbox</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\InteractionSandboxGameMode.h">
+      <Filter>Source\InteractionSandbox</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InteractionSandbox\InteractionSandboxPlayerController.cpp">
+      <Filter>Source\InteractionSandbox</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\InteractionSandboxPlayerController.h">
+      <Filter>Source\InteractionSandbox</Filter>
+    </ClInclude>
+    <Filter Include="Source\InteractionSandbox\Variant_Horror">
+      <UniqueIdentifier>{E1BE64D4-2308-3574-95AE-C636E987D98D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Horror\HorrorCharacter.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Horror\HorrorCharacter.h">
+      <Filter>Source\InteractionSandbox\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Horror\HorrorGameMode.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Horror\HorrorGameMode.h">
+      <Filter>Source\InteractionSandbox\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Horror\HorrorPlayerController.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Horror\HorrorPlayerController.h">
+      <Filter>Source\InteractionSandbox\Variant_Horror</Filter>
+    </ClInclude>
+    <Filter Include="Source\InteractionSandbox\Variant_Horror\UI">
+      <UniqueIdentifier>{53501893-153C-34E0-941F-F518FE353E0C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Horror\UI\HorrorUI.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Horror\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Horror\UI\HorrorUI.h">
+      <Filter>Source\InteractionSandbox\Variant_Horror\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\InteractionSandbox\Variant_Shooter">
+      <UniqueIdentifier>{7B3AC0F6-A1ED-3FCE-8F21-80E1AB12EE44}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Shooter\ShooterCharacter.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Shooter\ShooterCharacter.h">
+      <Filter>Source\InteractionSandbox\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Shooter\ShooterGameMode.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Shooter\ShooterGameMode.h">
+      <Filter>Source\InteractionSandbox\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Shooter\ShooterPlayerController.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Shooter\ShooterPlayerController.h">
+      <Filter>Source\InteractionSandbox\Variant_Shooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\InteractionSandbox\Variant_Shooter\AI">
+      <UniqueIdentifier>{76A0C62B-8A20-3B0E-AB2B-D98F6BCC209D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Shooter\AI\EnvQueryContext_Target.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Shooter\AI\EnvQueryContext_Target.h">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Shooter\AI\ShooterAIController.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Shooter\AI\ShooterAIController.h">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Shooter\AI\ShooterNPC.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Shooter\AI\ShooterNPC.h">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Shooter\AI\ShooterStateTreeUtility.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Shooter\AI\ShooterStateTreeUtility.h">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\InteractionSandbox\Variant_Shooter\UI">
+      <UniqueIdentifier>{C6407704-1387-35AD-BB1A-DDDB071887E5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Shooter\UI\ShooterBulletCounterUI.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Shooter\UI\ShooterBulletCounterUI.h">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Shooter\UI\ShooterUI.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Shooter\UI\ShooterUI.h">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\InteractionSandbox\Variant_Shooter\Weapons">
+      <UniqueIdentifier>{FCB3408E-712D-39F4-AB44-ABC7E797D012}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Shooter\Weapons\ShooterPickup.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Shooter\Weapons\ShooterPickup.h">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Shooter\Weapons\ShooterProjectile.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Shooter\Weapons\ShooterProjectile.h">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Shooter\Weapons\ShooterWeapon.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Shooter\Weapons\ShooterWeapon.h">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InteractionSandbox\Variant_Shooter\Weapons\ShooterWeaponHolder.cpp">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InteractionSandbox\Variant_Shooter\Weapons\ShooterWeaponHolder.h">
+      <Filter>Source\InteractionSandbox\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
